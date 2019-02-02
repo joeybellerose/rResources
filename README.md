@@ -39,6 +39,10 @@
 * [R Package Primer](https://kbroman.org/pkg_primer/)
 * [Writing an R Package From Scratch](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)
 
+* Testing
+  * [Intro to unit testing in R](https://katherinemwood.github.io/post/testthat/)
+  * [Writing Tests](https://kbroman.org/pkg_primer/pages/tests.html)
+
 * Continuous Integration
   * [Beginner's Guide to Travis-CI](https://juliasilge.com/blog/beginners-guide-to-travis/)
   * [Travis-CI](https://travis-ci.org/)
