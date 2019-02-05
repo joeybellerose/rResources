@@ -28,8 +28,7 @@
   * [Introduction](https://www.htmlwidgets.org/develop_intro.html)
   * [Building Your Own React-Based htmlWidget](http://www.buildingwidgets.com/blog/2019/1/27/build-your-own-react-based-htmlwidget)
   * [Create a Widget](https://www.htmlwidgets.org/develop_intro.html)
-  * [Authoring htmlWidgets Powered by React with reactR](https://react-r.github.io/reactR/articles/intro_htmlwidgets.html
-  * 
+  * [Authoring htmlWidgets Powered by React with reactR](https://react-r.github.io/reactR/articles/intro_htmlwidgets.html)
 
 ### Communication
 * [RMarkdown](https://rmarkdown.rstudio.com)
